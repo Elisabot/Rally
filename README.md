@@ -6,7 +6,7 @@ Rally - an application to cheer you on!
 The Rally application will allow an active user to receive real-time motivation from their friends using the Nike+ Training Club app integrated with Google Glass. 
 
 Feature/App:
-The stand-alone Rally application is designed to be an added social feature for the Nike+ Training Club app. 
+The stand-alone Rally application is designed to be an added social feature for the Nike+ Training Club app, with the possibility of being incorporated into additional Nike+ apps. 
 
 The Cheer:
 Friends can send a pre-made cheer video, or record their own video or audio message.
