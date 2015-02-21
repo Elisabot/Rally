@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="640px" android:layout_height="360px"
+    android:background="@drawable/img">
+
+    <TextView android:id="@+id/justdoit"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_centerInParent="true"
+        android:text="Just Do It!" />
+
+</RelativeLayout>

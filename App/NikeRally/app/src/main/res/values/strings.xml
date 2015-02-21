@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">NikeRally</string>
+    <string name="title_activity_main">Nike Rally</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_video">Rally Video</string>
+</resources>
